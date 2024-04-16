@@ -1,4 +1,4 @@
-package com.wy.designpattern.creational;
+package com.wy.designpattern.creational.example;
 
 public enum Direction {
 
